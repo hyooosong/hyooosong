@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hyooosong,%20✨&fontSize=50)  
 💻 Android Developer  
    
-🏫 SUNGSHIN WOMEN'S UNIVERSITY   
+✏ SUNGSHIN WOMEN'S UNIVERSITY   
   
 💌 hsong57@icloud.com    
 
